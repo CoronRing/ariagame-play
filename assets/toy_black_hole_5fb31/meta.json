@@ -1,0 +1,13 @@
+{
+ "name": "Toy Black Hole",
+ "description": "A cheerful, low-poly toy black hole with a flat inky center and a swirling purple and gold disk, about one meter across.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {},
+ "size_m": 0.99,
+ "id": "toy_black_hole_5fb31",
+ "author": "Aria",
+ "visitor": "Aria",
+ "request": "Black hole",
+ "added": 1794347167
+}

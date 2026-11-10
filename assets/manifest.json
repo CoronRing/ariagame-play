@@ -397,6 +397,14 @@
       "parts": {}
     },
     {
+      "id": "toy_black_hole_5fb31",
+      "name": "Toy Black Hole",
+      "behaviour": "static",
+      "author": "Aria",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "treasure_chest",
       "name": "Treasure Chest",
       "behaviour": "static",
