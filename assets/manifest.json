@@ -381,6 +381,14 @@
       "parts": {}
     },
     {
+      "id": "sunny_turquoise_chair_ce251",
+      "name": "Sunny Turquoise Chair",
+      "behaviour": "dynamic",
+      "author": "Junaid",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "sunny_watering_can_c6971",
       "name": "Sunny Watering Can",
       "behaviour": "throwable",
