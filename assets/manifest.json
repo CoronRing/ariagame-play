@@ -101,6 +101,14 @@
       "parts": {}
     },
     {
+      "id": "cheerful_night_heron_8aaf1",
+      "name": "Cheerful Night Heron",
+      "behaviour": "npc",
+      "author": "lucy",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "cheerful_noodle_bowl_3f3f1",
       "name": "Cheerful Noodle Bowl",
       "behaviour": "dynamic",

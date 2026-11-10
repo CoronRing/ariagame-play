@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Night Heron",
+ "description": "A small, chunky toy-like night heron with a black crown and back, pale gray wings, a white underside, red eyes, yellow legs, and a long dark bill.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.822,
+ "id": "cheerful_night_heron_8aaf1",
+ "author": "lucy",
+ "visitor": "lucy",
+ "request": "Black crowned night heron",
+ "added": 1794344224
+}
