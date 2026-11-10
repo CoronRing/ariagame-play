@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Rainbow Arch",
+ "description": "A chunky low-poly rainbow arch with six bright painted bands, two meters wide and one meter tall.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {},
+ "size_m": 1.998,
+ "id": "cheerful_rainbow_arch_7ff91",
+ "author": "Night",
+ "visitor": "Night",
+ "request": "A rainbow that gets bigger when interacted",
+ "added": 1794343541
+}

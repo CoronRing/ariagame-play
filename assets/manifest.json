@@ -127,6 +127,14 @@
       "parts": {}
     },
     {
+      "id": "cheerful_rainbow_arch_7ff91",
+      "name": "Cheerful Rainbow Arch",
+      "behaviour": "static",
+      "author": "Night",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "cheerful_red_mailbox_89551",
       "name": "Cheerful Red Mailbox",
       "behaviour": "static",
