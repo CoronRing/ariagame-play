@@ -34,6 +34,14 @@
       "parts": {}
     },
     {
+      "id": "cheerful_backpack_bear_ee931",
+      "name": "Cheerful Backpack Bear",
+      "behaviour": "npc",
+      "author": "Paul",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "cheerful_freestanding_ma_2ecf1",
       "name": "Cheerful Freestanding Mailbox",
       "behaviour": "throwable",

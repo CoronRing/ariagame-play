@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Backpack Bear",
+ "description": "A small blocky brown bear with rounded ears, a tan muzzle, teal vest and little red backpack.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.599,
+ "id": "cheerful_backpack_bear_ee931",
+ "author": "Paul",
+ "visitor": "Paul",
+ "request": "A bear walking around island",
+ "added": 1794335465
+}
