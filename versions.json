@@ -1,6 +1,6 @@
 {
  "api": "https://375a64ceef1ee0.lhr.life",
- "latest": "1.56",
+ "latest": "1.57",
  "versions": [
   {
    "version": "1.0",
@@ -400,6 +400,13 @@
    "request": "Black hole",
    "asset": "toy_black_hole_5fb31",
    "ts": 1794347275.5537052
+  },
+  {
+   "version": "1.57",
+   "visitor": "Maxine",
+   "request": "A rocketship",
+   "asset": "cheerful_toy_rocketship_db781",
+   "ts": 1794351136.2081435
   }
  ]
 }
