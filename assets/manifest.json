@@ -61,6 +61,14 @@
       "parts": {}
     },
     {
+      "id": "cheerful_lager_mug_c9a11",
+      "name": "Cheerful Lager Mug",
+      "behaviour": "throwable",
+      "author": "Alon",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "cheerful_low_poly_frog_1e1d1",
       "name": "Cheerful Low-Poly Frog",
       "behaviour": "npc",

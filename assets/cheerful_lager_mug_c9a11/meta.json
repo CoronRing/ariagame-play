@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Lager Mug",
+ "description": "A chunky low-poly mug of golden lager with a loop handle and a fluffy white foam crown.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 0.2,
+ "id": "cheerful_lager_mug_c9a11",
+ "author": "Alon",
+ "visitor": "Alon",
+ "request": "A beer that can be drank",
+ "added": 1794343808
+}
