@@ -1,6 +1,6 @@
 {
  "api": "https://375a64ceef1ee0.lhr.life",
- "latest": "1.58",
+ "latest": "1.59",
  "versions": [
   {
    "version": "1.0",
@@ -414,6 +414,13 @@
    "request": "A chair",
    "asset": "sunny_turquoise_chair_ce251",
    "ts": 1794351950.2558784
+  },
+  {
+   "version": "1.59",
+   "visitor": "Hannah",
+   "request": "A cannon that shoots out glitter",
+   "asset": "cheerful_toy_cannon_33cb1",
+   "ts": 1794352136.1431754
   }
  ]
 }
