@@ -1,0 +1,13 @@
+{
+ "name": "Laptop Chicken",
+ "description": "A cheerful blocky white chicken with a red comb, orange beak and feet, and a tiny blue laptop.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.665,
+ "id": "laptop_chicken_ce3a1",
+ "author": "gege",
+ "visitor": "gege",
+ "request": "A chicken thats walks around, when interacted tell the player it have 2.5 years of dev experience and if you have a job suggetsion",
+ "added": 1794274857
+}

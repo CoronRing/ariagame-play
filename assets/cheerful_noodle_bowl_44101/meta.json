@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Noodle Bowl",
+ "description": "A cheerful coral ceramic bowl filled with golden broth, curled noodles, scallions, and wooden chopsticks.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 0.2,
+ "id": "cheerful_noodle_bowl_44101",
+ "author": "Kevin",
+ "visitor": "Kevin",
+ "request": "A bowl of noodle the player can consume. With text: just like old times showed when interacted.",
+ "added": 1794215141
+}

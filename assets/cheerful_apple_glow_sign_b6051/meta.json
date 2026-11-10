@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Apple Glow Sign",
+ "description": "A freestanding, softly rounded low-poly apple silhouette sculpture with a separate veined leaf, warm coral enamel rim, recessed radiant diffuser, and weighted toy-like pedestal. Approximately 1.2 m tall and 1 m wide.",
+ "behaviour": "static",
+ "use": "Its recessed diffuser glows warmly when illuminated.",
+ "parts": {},
+ "size_m": 1.185,
+ "id": "cheerful_apple_glow_sign_b6051",
+ "author": "Apple Canada",
+ "visitor": "Apple Canada",
+ "request": "apple logo that lights up when interacted.",
+ "added": 1794213238
+}

@@ -1,0 +1,8 @@
+{
+  "id": "beach_ball",
+  "name": "Beach Ball",
+  "description": "A bouncy striped beach ball. Sample asset generated procedurally.",
+  "size_m": 0.7,
+  "behaviour": "throwable",
+  "author": "ARIA team"
+}

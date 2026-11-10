@@ -1,0 +1,13 @@
+{
+ "name": "Sunny Side Basketball",
+ "description": "A cheerful low-poly basketball, 24 cm across, with bright pebbled tangerine-orange panels and crisp charcoal curved seams.",
+ "behaviour": "throwable",
+ "use": "Pick it up and throw it to bounce toward hoops, teammates, or targets in the game.",
+ "parts": {},
+ "size_m": 0.24,
+ "id": "sunny_side_basketball_d4c01",
+ "author": "Qwen",
+ "visitor": "Qwen",
+ "request": "A basketball after talking to an npc",
+ "added": 1793058712
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Waving Snowman",
+ "description": "A cheerful, low-poly toy snowman about 1.5 metres tall, built from three rounded snowballs with a painted smiling face, carrot nose, coal buttons, a bright striped scarf and friendly twig arms raised in a wave.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 1.505,
+ "id": "cheerful_waving_snowman_5fac1",
+ "author": "Omar",
+ "visitor": "Omar",
+ "request": "A friendly snowman NPC who waves and says hi",
+ "added": 1793656879
+}

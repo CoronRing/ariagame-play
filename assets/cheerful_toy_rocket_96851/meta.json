@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Toy Rocket",
+ "description": "A 60 cm cheerful low-poly toy rocket with a rounded coral nose, teal body, colorful chunky fins, a painted ZOOM porthole badge, and a sturdy nozzle.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 0.61,
+ "id": "cheerful_toy_rocket_96851",
+ "author": "Jun",
+ "visitor": "Jun",
+ "request": "A toy rocket that launches into the sky when you use it",
+ "added": 1793657522
+}

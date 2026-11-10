@@ -1,0 +1,10 @@
+{
+  "id": "treasure_chest",
+  "name": "Treasure Chest",
+  "description": "A sturdy wooden chest with golden trim. Sample asset made from the Kenney Platformer Kit.",
+  "size_m": 1.1,
+  "behaviour": "static",
+  "author": "ARIA team",
+  "use": "Opens and closes its lid, glowing with treasure light while open.",
+  "parts": { "open": "open.glb" }
+}

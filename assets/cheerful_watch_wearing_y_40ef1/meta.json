@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Watch-Wearing Young Man",
+ "description": "A small, cheerful young man with tousled brown hair, a teal jacket over a cream shirt, dark trousers, and a glowing wristwatch.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.73,
+ "id": "cheerful_watch_wearing_y_40ef1",
+ "author": "host",
+ "visitor": "host",
+ "request": "A master student saving the world by time travelling, he ask if player if anything is wrong, player can say nothing or ask him to checkout the sky garden",
+ "added": 1794275841
+}

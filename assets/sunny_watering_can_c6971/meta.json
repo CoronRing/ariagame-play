@@ -1,0 +1,13 @@
+{
+ "name": "Sunny Watering Can",
+ "description": "A cheerful low-poly watering can with a rounded lagoon-teal body, coral handle, curved mint spout, perforated yellow sprinkler rose, and a smiling flower badge.",
+ "behaviour": "throwable",
+ "use": "Tilting the can pours a gentle spray of water from its perforated sprinkler rose.",
+ "parts": {},
+ "size_m": 0.285,
+ "id": "sunny_watering_can_c6971",
+ "author": "Nadia",
+ "visitor": "Nadia",
+ "request": "A watering can that sprays water when you use it",
+ "added": 1793314138
+}

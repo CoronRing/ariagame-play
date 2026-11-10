@@ -1,0 +1,16 @@
+{
+ "name": "Cheerful Freestanding Mailbox",
+ "description": "A cheerful, low-poly red toy mailbox standing about 1.2 metres tall, with a dark mail slot, golden side flag, and a separate open-door state.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {
+  "open": "open.glb"
+ },
+ "size_m": 1.175,
+ "id": "cheerful_freestanding_ma_2ecf1",
+ "author": "Ana",
+ "visitor": "Ana",
+ "request": "a small red mailbox",
+ "auto_place": true,
+ "added": 1793059074
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Gold Coin",
+ "description": "A chunky, rounded low-poly gold token with a smiling sun on one face and a friendly crescent moon with stars on the other.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 0.04,
+ "id": "cheerful_gold_coin_97e31",
+ "author": "Seela",
+ "visitor": "Seela",
+ "request": "A coin that can be flipped",
+ "added": 1793656653
+}

@@ -1,0 +1,15 @@
+{
+ "name": "Cheerful Red Mailbox",
+ "description": "A chunky, low-poly cherry-red freestanding mailbox with an arched crown, painted postal door, sturdy post, and side signal flag.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {
+  "raised": "flag_raised.glb"
+ },
+ "size_m": 1.28,
+ "id": "cheerful_red_mailbox_89551",
+ "author": "Ken",
+ "visitor": "Ken",
+ "request": "A red mailbox whose flag pops up when you use it",
+ "added": 1793314365
+}

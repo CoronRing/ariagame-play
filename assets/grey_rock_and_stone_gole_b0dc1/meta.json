@@ -1,0 +1,15 @@
+{
+ "name": "Grey Rock and Stone Golem",
+ "description": "A plain, low-poly grey rock about one metre wide, with a separate matching, friendly stone goolem in golem.glb.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {
+  "golem": "golem.glb"
+ },
+ "size_m": 1.005,
+ "id": "grey_rock_and_stone_gole_b0dc1",
+ "author": "Mudrock",
+ "visitor": "Mudrock",
+ "request": "A plain looking rock that turn to golem when interacted",
+ "added": 1794214779
+}

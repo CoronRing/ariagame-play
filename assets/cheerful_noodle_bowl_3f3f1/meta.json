@@ -1,0 +1,15 @@
+{
+ "name": "Cheerful Noodle Bowl",
+ "description": "A toy-like glazed ceramic bowl filled with curled golden noodles and amber broth, with steam wisps and chopsticks resting across the rim.",
+ "behaviour": "dynamic",
+ "use": "Using the bowl briefly displays the separate noodle bite as an eating effect.",
+ "parts": {
+  "eat": "noodle_bite.glb"
+ },
+ "size_m": 0.181,
+ "id": "cheerful_noodle_bowl_3f3f1",
+ "author": "Kevin",
+ "visitor": "Kevin",
+ "request": "A bowl of noodle the player can consume. With text: just like old times showed when interacted.",
+ "added": 1794212910
+}

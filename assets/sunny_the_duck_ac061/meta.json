@@ -1,0 +1,13 @@
+{
+ "name": "Sunny the Duck",
+ "description": "A cheerful, toy-like yellow duck with a painted friendly face, orange bill, and webbed feet, sized for a low-poly island game.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.594,
+ "id": "sunny_the_duck_ac061",
+ "author": "Omar",
+ "visitor": "Omar",
+ "request": "A friendly duck NPC that quacks when you talk to it",
+ "added": 1793309355
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Sunmoon Lucky Coin",
+ "description": "A cheerful low-poly gold coin, 5 cm across and 3 mm thick, with a smiling sun on the front and a friendly crescent moon on the reverse.",
+ "behaviour": "dynamic",
+ "use": "",
+ "parts": {},
+ "size_m": 0.05,
+ "id": "sunmoon_lucky_coin_77eb1",
+ "author": "Seela",
+ "visitor": "Seela",
+ "request": "A coin that can be fliped.",
+ "added": 1793652427
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Pepperoni Pizza Slice",
+ "description": "A chunky cartoon pizza slice with golden baked crust, bright tomato sauce, melted cheese, a friendly painted face, and round pepperoni.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 0.178,
+ "id": "cheerful_pepperoni_pizza_be3e1",
+ "author": "Mia",
+ "visitor": "Mia",
+ "request": "A pizza slice you can pick up and throw",
+ "added": 1793657291
+}

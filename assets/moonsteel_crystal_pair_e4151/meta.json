@@ -1,0 +1,13 @@
+{
+ "name": "Moonsteel Crystal Pair",
+ "description": "A chunky, mirror-bright silver-blue low-poly crystal beside a matching crystal split into two smaller pieces with pale faceted fracture faces.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {},
+ "size_m": 0.386,
+ "id": "moonsteel_crystal_pair_e4151",
+ "author": "Endmin",
+ "visitor": "Endmin",
+ "request": "A shiny, reflective clone crystal that split to two when interacted.",
+ "added": 1794209187
+}

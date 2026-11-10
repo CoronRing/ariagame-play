@@ -1,0 +1,13 @@
+{
+ "name": "Happy Days Picnic Basket",
+ "description": "A cheerful low-poly honey-wicker picnic basket with a hinged movable lid, arched carry handle, gingham cloth peeking out, brass-colored hinge details, and a smiling Picnic Club badge.",
+ "behaviour": "dynamic",
+ "use": "Interact with the basket to swing its separate lid open and reveal the picnic treats inside.",
+ "parts": {},
+ "size_m": 0.405,
+ "id": "happy_days_picnic_basket_1f3c1",
+ "author": "Claude",
+ "visitor": "Claude",
+ "request": "A picnic basket that pops confetti when you open it",
+ "added": 1793218280
+}

@@ -1,0 +1,13 @@
+{
+ "name": "BEEP the Little Helper",
+ "description": "A cheerful 0.86 m low-poly toy robot with a rounded teal body, ivory face screen, bright blue eyes, painted smile, chunky blue arms, sunny yellow hands, orange boots, a tiny beacon antenna, and colorful control buttons.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.859,
+ "id": "beep_the_little_helper_503e1",
+ "author": "Priya",
+ "visitor": "Priya",
+ "request": "A small friendly robot NPC that says hello",
+ "added": 1793314636
+}

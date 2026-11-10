@@ -1,0 +1,13 @@
+{
+ "name": "Picnic Man",
+ "description": "Picnic Man, built on the game's bearded character: a golden sun hat with a coral band, a marigold shirt, a green apron, tan shorts and coral shoes.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.79,
+ "id": "picnic_man_kit1",
+ "author": "Kevin",
+ "visitor": "Kevin",
+ "request": "A new NPC picknick man ask the user to bring pizza to him for a reward.",
+ "added": 1794252510
+}

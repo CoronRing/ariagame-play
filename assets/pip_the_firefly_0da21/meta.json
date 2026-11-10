@@ -1,0 +1,13 @@
+{
+ "name": "Pip the Firefly",
+ "description": "A cheerful, low-poly firefly about 5 cm long, with a rounded yellow-green body, a painted friendly face, translucent mint wings, and a softly glowing abdomen.",
+ "behaviour": "npc",
+ "use": "When the player approaches, it flutters around them and leaves a brief trail of warm light.",
+ "parts": {},
+ "size_m": 0.052,
+ "id": "pip_the_firefly_0da21",
+ "author": "Amir",
+ "visitor": "Amir",
+ "request": "Fireflies that follow you when interacted",
+ "added": 1793217331
+}

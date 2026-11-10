@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Low-Poly Frog",
+ "description": "A friendly, bright-green toy-like frog with a pale belly, big expressive eyes, rosy cheeks, and a welcoming smile.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.801,
+ "id": "cheerful_low_poly_frog_1e1d1",
+ "author": "Leo",
+ "visitor": "Leo",
+ "request": "A friendly frog NPC who tells jokes",
+ "added": 1793677774
+}

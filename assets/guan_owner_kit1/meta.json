@@ -1,0 +1,13 @@
+{
+ "name": "Guan the Owner",
+ "description": "Guan the Owner, built on the game's glasses character: short dark hair, light glasses, a teal top, slate shorts and white sneakers.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.79,
+ "id": "guan_owner_kit1",
+ "author": "Guan",
+ "visitor": "Guan",
+ "request": "The island owner, who can start the island over and points to more research and projects.",
+ "added": 1794252510
+}

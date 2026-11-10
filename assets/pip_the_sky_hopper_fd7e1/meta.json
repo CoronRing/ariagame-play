@@ -1,0 +1,13 @@
+{
+ "name": "Pip the Sky Hopper",
+ "description": "A cheerful, low-poly toy-like jumper in a lively mid-hop pose, with a friendly smiling face, a teal hoodie bearing a colorful HOP badge, coral shorts, and sturdy golden sneakers.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 1.78,
+ "id": "pip_the_sky_hopper_fd7e1",
+ "author": "Tom",
+ "visitor": "Tom",
+ "request": "An NPC named Tom that jumps",
+ "added": 1793216803
+}

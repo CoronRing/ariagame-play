@@ -1,0 +1,13 @@
+{
+ "name": "Sunshine Scallop Beach Umbrella",
+ "description": "A cheerful low-poly beach umbrella with a sunny striped canopy, scalloped piping, mint pole, and curled wooden handle.",
+ "behaviour": "static",
+ "use": "Players can rest beneath the canopy to recover a little stamina.",
+ "parts": {},
+ "size_m": 1.997,
+ "id": "sunshine_scallop_beach_u_717c1",
+ "author": "Pooria",
+ "visitor": "Pooria",
+ "request": "An umbrella",
+ "added": 1793217967
+}

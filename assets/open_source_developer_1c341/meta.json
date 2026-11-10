@@ -1,0 +1,13 @@
+{
+ "name": "Open-source Developer",
+ "description": "A cheerful low-poly woman developer NPC with a teal practical jacket, coral accent, glasses, simple trousers, sneakers, and a small laptop tucked under one arm.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.79,
+ "id": "open_source_developer_1c341",
+ "author": "Closure",
+ "visitor": "Closure",
+ "request": "An NPC Asking user to pay one coin to sponsor her opensource project building AGI called ZOOT",
+ "added": 1794212451
+}

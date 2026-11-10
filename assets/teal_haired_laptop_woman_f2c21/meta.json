@@ -1,0 +1,13 @@
+{
+ "name": "Teal-haired laptop woman",
+ "description": "A cheerful blocky woman with short teal hair, a purple hoodie, dark trousers and bright sneakers, holding a ZOOT-decorated laptop.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.79,
+ "id": "teal_haired_laptop_woman_f2c21",
+ "author": "Closure",
+ "visitor": "Closure",
+ "request": "An NPC Asking user to pay one coin to sponsor her opensource project building AGI called ZOOT",
+ "added": 1794214987
+}

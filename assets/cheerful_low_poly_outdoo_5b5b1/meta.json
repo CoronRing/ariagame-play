@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Low-Poly Outdoor Lamp Post",
+ "description": "A cheerful, toy-like 2.5 m outdoor lamp post with a chunky octagonal base, slender teal pole, coral roof, and warm glowing lantern panes decorated with a painted star-and-sparkle motif.",
+ "behaviour": "static",
+ "use": "The lantern lights up.",
+ "parts": {},
+ "size_m": 2.553,
+ "id": "cheerful_low_poly_outdoo_5b5b1",
+ "author": "Lina",
+ "visitor": "Lina",
+ "request": "A lamp post that lights up when you use it",
+ "added": 1793308956
+}

@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "azure_crystal_e3bc1",
+      "name": "Azure Crystal",
+      "behaviour": "throwable",
+      "author": "Endmin",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "beach_ball",
+      "name": "Beach Ball",
+      "behaviour": "throwable",
+      "author": "ARIA team",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "beep_the_little_helper_503e1",
+      "name": "BEEP the Little Helper",
+      "behaviour": "npc",
+      "author": "Priya",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_apple_glow_sign_b6051",
+      "name": "Cheerful Apple Glow Sign",
+      "behaviour": "static",
+      "author": "Apple Canada",
+      "use": "Its recessed diffuser glows warmly when illuminated.",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_freestanding_ma_2ecf1",
+      "name": "Cheerful Freestanding Mailbox",
+      "behaviour": "throwable",
+      "author": "Ana",
+      "use": "",
+      "parts": {
+        "open": "open.glb"
+      },
+      "auto_place": true
+    },
+    {
+      "id": "cheerful_gold_coin_97e31",
+      "name": "Cheerful Gold Coin",
+      "behaviour": "throwable",
+      "author": "Seela",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_low_poly_frog_1e1d1",
+      "name": "Cheerful Low-Poly Frog",
+      "behaviour": "npc",
+      "author": "Leo",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_low_poly_outdoo_5b5b1",
+      "name": "Cheerful Low-Poly Outdoor Lamp Post",
+      "behaviour": "static",
+      "author": "Lina",
+      "use": "The lantern lights up.",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_low_poly_pink_c_9ea91",
+      "name": "Cheerful Low-Poly Pink Crystal Cluster",
+      "behaviour": "static",
+      "author": "Traveler",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_noodle_bowl_3f3f1",
+      "name": "Cheerful Noodle Bowl",
+      "behaviour": "dynamic",
+      "author": "Kevin",
+      "use": "Using the bowl briefly displays the separate noodle bite as an eating effect.",
+      "parts": {
+        "eat": "noodle_bite.glb"
+      }
+    },
+    {
+      "id": "cheerful_noodle_bowl_44101",
+      "name": "Cheerful Noodle Bowl",
+      "behaviour": "throwable",
+      "author": "Kevin",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_patchwork_kite_6f261",
+      "name": "Cheerful Patchwork Kite",
+      "behaviour": "static",
+      "author": "Leo",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_pepperoni_pizza_be3e1",
+      "name": "Cheerful Pepperoni Pizza Slice",
+      "behaviour": "throwable",
+      "author": "Mia",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_red_mailbox_89551",
+      "name": "Cheerful Red Mailbox",
+      "behaviour": "static",
+      "author": "Ken",
+      "use": "",
+      "parts": {
+        "raised": "flag_raised.glb"
+      }
+    },
+    {
+      "id": "cheerful_toy_rocket_96851",
+      "name": "Cheerful Toy Rocket",
+      "behaviour": "throwable",
+      "author": "Jun",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_watch_wearing_y_40ef1",
+      "name": "Cheerful Watch-Wearing Young Man",
+      "behaviour": "npc",
+      "author": "host",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "cheerful_waving_snowman_5fac1",
+      "name": "Cheerful Waving Snowman",
+      "behaviour": "npc",
+      "author": "Omar",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "fresh_bread_bakery_sign_0da11",
+      "name": "Fresh Bread Bakery Sign",
+      "behaviour": "static",
+      "author": "Ava",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "golden_finder_kit1",
+      "name": "Golden-Haired Finder",
+      "behaviour": "npc",
+      "author": "Traveler",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "grey_rock_and_stone_gole_b0dc1",
+      "name": "Grey Rock and Stone Golem",
+      "behaviour": "static",
+      "author": "Mudrock",
+      "use": "",
+      "parts": {
+        "golem": "golem.glb"
+      }
+    },
+    {
+      "id": "guan_island_owner_host1",
+      "name": "Guan the Owner",
+      "behaviour": "npc",
+      "author": "Guan",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "guan_owner_kit1",
+      "name": "Guan the Owner",
+      "behaviour": "npc",
+      "author": "Guan",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "happy_days_picnic_basket_1f3c1",
+      "name": "Happy Days Picnic Basket",
+      "behaviour": "dynamic",
+      "author": "Claude",
+      "use": "Interact with the basket to swing its separate lid open and reveal the picnic treats inside.",
+      "parts": {}
+    },
+    {
+      "id": "honeywheel_barrow_25d91",
+      "name": "Honeywheel Barrow",
+      "behaviour": "dynamic",
+      "author": "Guan",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "island_boulder_75d61",
+      "name": "Island Boulder",
+      "behaviour": "static",
+      "author": "Mudrock",
+      "use": "",
+      "parts": {
+        "golem": "golem.glb"
+      }
+    },
+    {
+      "id": "island_kick_soccer_ball_5de51",
+      "name": "Island Kick Soccer Ball",
+      "behaviour": "throwable",
+      "author": "Kai",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "laptop_chicken_ce3a1",
+      "name": "Laptop Chicken",
+      "behaviour": "npc",
+      "author": "gege",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "luminous_apple_logo_6d451",
+      "name": "Luminous Apple Logo",
+      "behaviour": "decor",
+      "author": "Apple Canada",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "moonsteel_crystal_pair_e4151",
+      "name": "Moonsteel Crystal Pair",
+      "behaviour": "static",
+      "author": "Endmin",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "open_source_developer_1c341",
+      "name": "Open-source Developer",
+      "behaviour": "npc",
+      "author": "Closure",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "picnic_man_kit1",
+      "name": "Picnic Man",
+      "behaviour": "npc",
+      "author": "Kevin",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "picnic_pal_d8f51",
+      "name": "Picnic Pal",
+      "behaviour": "npc",
+      "author": "Kevin",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "pip_the_firefly_0da21",
+      "name": "Pip the Firefly",
+      "behaviour": "npc",
+      "author": "Amir",
+      "use": "When the player approaches, it flutters around them and leaves a brief trail of warm light.",
+      "parts": {}
+    },
+    {
+      "id": "pip_the_sky_hopper_fd7e1",
+      "name": "Pip the Sky Hopper",
+      "behaviour": "npc",
+      "author": "Tom",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "railtown_ai_logo_sign_f07b1",
+      "name": "Railtown AI Logo Sign",
+      "behaviour": "static",
+      "author": "Marwan",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "railtown_ai_sign_bd021",
+      "name": "Railtown AI Sign",
+      "behaviour": "static",
+      "author": "Marwan",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "sunmoon_lucky_coin_77eb1",
+      "name": "Sunmoon Lucky Coin",
+      "behaviour": "dynamic",
+      "author": "Seela",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "sunny_satchel_kid_e29b1",
+      "name": "Sunny Satchel Kid",
+      "behaviour": "npc",
+      "author": "Traveler",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "sunny_side_basketball_d4c01",
+      "name": "Sunny Side Basketball",
+      "behaviour": "throwable",
+      "author": "Qwen",
+      "use": "Pick it up and throw it to bounce toward hoops, teammates, or targets in the game.",
+      "parts": {}
+    },
+    {
+      "id": "sunny_the_duck_ac061",
+      "name": "Sunny the Duck",
+      "behaviour": "npc",
+      "author": "Omar",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "sunny_watering_can_c6971",
+      "name": "Sunny Watering Can",
+      "behaviour": "throwable",
+      "author": "Nadia",
+      "use": "Tilting the can pours a gentle spray of water from its perforated sprinkler rose.",
+      "parts": {}
+    },
+    {
+      "id": "sunshine_scallop_beach_u_717c1",
+      "name": "Sunshine Scallop Beach Umbrella",
+      "behaviour": "static",
+      "author": "Pooria",
+      "use": "Players can rest beneath the canopy to recover a little stamina.",
+      "parts": {}
+    },
+    {
+      "id": "teal_haired_laptop_woman_f2c21",
+      "name": "Teal-haired laptop woman",
+      "behaviour": "npc",
+      "author": "Closure",
+      "use": "",
+      "parts": {}
+    },
+    {
+      "id": "treasure_chest",
+      "name": "Treasure Chest",
+      "behaviour": "static",
+      "author": "ARIA team",
+      "use": "Opens and closes its lid, glowing with treasure light while open.",
+      "parts": {
+        "open": "open.glb"
+      }
+    },
+    {
+      "id": "zoot_laptop_woman_21d31",
+      "name": "ZOOT Laptop Woman",
+      "behaviour": "npc",
+      "author": "Closure",
+      "use": "",
+      "parts": {}
+    }
+  ]
+}

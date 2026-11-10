@@ -1,0 +1,13 @@
+{
+ "name": "Picnic Pal",
+ "description": "A cheerful, low-poly picnic-goer about 1.74 m tall, wearing a broad golden sun hat, bright marigold shirt, green fruit-badge apron, coral accents, tan trousers and chunky shoes. A warm painted smile, bright eyes and rosy cheeks give him a friendly, welcoming expression.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.91,
+ "id": "picnic_pal_d8f51",
+ "author": "Kevin",
+ "visitor": "Kevin",
+ "request": "A new NPC picknick man ask the user to bring pizza to him for a reward.",
+ "added": 1793739253
+}

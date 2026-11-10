@@ -1,0 +1,13 @@
+{
+ "name": "Island Boulder",
+ "description": "A low-poly, toy-like ash-gray island boulder about 1.2 m tall and 1.5 m wide, with faint crack lines that hint at a face. A separate awakened stone golem model is included as golem.glb.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {"golem": "golem.glb"},
+ "size_m": 1.98,
+ "id": "island_boulder_75d61",
+ "author": "Mudrock",
+ "visitor": "Mudrock",
+ "request": "A plain looking rock that turn to golem when interacted",
+ "added": 1794207716
+}

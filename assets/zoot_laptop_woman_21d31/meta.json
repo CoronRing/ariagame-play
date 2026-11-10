@@ -1,0 +1,13 @@
+{
+ "name": "ZOOT Laptop Woman",
+ "description": "A cheerful, blocky woman with short purple hair, a teal hoodie, dark trousers, bright sneakers, and a ZOOT-covered laptop.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.785,
+ "id": "zoot_laptop_woman_21d31",
+ "author": "Closure",
+ "visitor": "Closure",
+ "request": "An NPC Asking user to pay one coin to sponsor her opensource project building AGI called ZOOT",
+ "added": 1794222097
+}

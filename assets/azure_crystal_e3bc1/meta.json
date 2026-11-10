@@ -1,0 +1,13 @@
+{
+ "name": "Azure Crystal",
+ "description": "A shiny, low-poly blue crystal with broad cool facets and a painted gleam, 40 cm tall.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 0.4,
+ "id": "azure_crystal_e3bc1",
+ "author": "Endmin",
+ "visitor": "Endmin",
+ "request": "A shiny, reflective clone crystal that split to two when interacted.",
+ "added": 1794215264
+}

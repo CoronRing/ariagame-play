@@ -1,0 +1,14 @@
+{
+ "name": "Railtown AI Sign",
+ "description": "A cheerful, chunky 4-meter toy-town sign with a vivid violet R, warm cream lettering, lagoon-blue enamel, honey-gold trim, and printed mint accents.",
+ "behaviour": "static",
+ "use": "",
+ "parts": {},
+ "size_m": 4.0,
+ "id": "railtown_ai_sign_bd021",
+ "author": "Marwan",
+ "visitor": "Marwan",
+ "request": "A logo of Railtown AI with the R being purple. It should be big and not interactable.",
+ "auto_place": false,
+ "added": 1793217361
+}

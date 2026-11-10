@@ -1,0 +1,13 @@
+{
+ "name": "Guan the Owner",
+ "description": "Guan the Owner: a blocky island owner with short dark hair, square glasses, a teal top, slate trousers and white sneakers.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.79,
+ "id": "guan_island_owner_host1",
+ "author": "Guan",
+ "visitor": "Guan",
+ "request": "The island owner, who can start the island over and points to more research and projects.",
+ "added": 1794212032
+}
