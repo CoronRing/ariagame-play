@@ -1,6 +1,6 @@
 {
  "api": "https://417f6103febb1e.lhr.life",
- "latest": "1.52",
+ "latest": "1.53",
  "versions": [
   {
    "version": "1.0",
@@ -372,6 +372,13 @@
    "request": "A rainbow that gets bigger when interacted",
    "asset": "cheerful_rainbow_arch_7ff91",
    "ts": 1794343678.7148879
+  },
+  {
+   "version": "1.53",
+   "visitor": "Alon",
+   "request": "A beer that can be drank",
+   "asset": "cheerful_lager_mug_c9a11",
+   "ts": 1794343916.750018
   }
  ]
 }
