@@ -169,6 +169,14 @@
       "parts": {}
     },
     {
+      "id": "cheerful_toy_rocketship_db781",
+      "name": "Cheerful Toy Rocketship",
+      "behaviour": "throwable",
+      "author": "Maxine",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "cheerful_watch_wearing_y_40ef1",
       "name": "Cheerful Watch-Wearing Young Man",
       "behaviour": "npc",

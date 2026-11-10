@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Toy Rocketship",
+ "description": "A chunky low-poly toy rocket with a rounded white body, coral nose, teal fins and a circular blue window.",
+ "behaviour": "throwable",
+ "use": "",
+ "parts": {},
+ "size_m": 1.0,
+ "id": "cheerful_toy_rocketship_db781",
+ "author": "Maxine",
+ "visitor": "Maxine",
+ "request": "A rocketship",
+ "added": 1794351037
+}
