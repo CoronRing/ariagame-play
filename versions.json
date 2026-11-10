@@ -1,6 +1,6 @@
 {
  "api": "https://9a7c67417f2d75.lhr.life",
- "latest": "1.50",
+ "latest": "1.51",
  "versions": [
   {
    "version": "1.0",
@@ -358,6 +358,13 @@
    "request": "A bear walking around island",
    "asset": "cheerful_backpack_bear_ee931",
    "ts": 1794335663.2076957
+  },
+  {
+   "version": "1.51",
+   "visitor": "host",
+   "request": "A Request object button at the top of the screen",
+   "asset": null,
+   "ts": 1794335859.423829
   }
  ]
 }
