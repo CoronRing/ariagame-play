@@ -1,6 +1,6 @@
 {
  "api": "https://e75d8ab8f25558.lhr.life",
- "latest": "1.48",
+ "latest": "1.49",
  "versions": [
   {
    "version": "1.0",
@@ -344,6 +344,13 @@
    "request": "A master student saving the world by time travelling, he ask if player if anything is wrong, player can say nothing or ask him to checkout the sky garden",
    "asset": "cheerful_watch_wearing_y_40ef1",
    "ts": 1794275894.2629578
+  },
+  {
+   "version": "1.49",
+   "visitor": "Paul",
+   "request": "A bear walking around island",
+   "asset": "cheerful_neckerchief_bea_c9761",
+   "ts": 1794335348.6826458
   }
  ]
 }
