@@ -161,6 +161,16 @@
       }
     },
     {
+      "id": "cheerful_toy_cannon_33cb1",
+      "name": "Cheerful Toy Cannon",
+      "behaviour": "dynamic",
+      "author": "Hannah",
+      "use": "Fires a cannonball.",
+      "parts": {
+        "projectile": "cannonball.glb"
+      }
+    },
+    {
       "id": "cheerful_toy_rocket_96851",
       "name": "Cheerful Toy Rocket",
       "behaviour": "throwable",

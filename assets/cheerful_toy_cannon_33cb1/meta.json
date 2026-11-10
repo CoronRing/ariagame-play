@@ -1,0 +1,15 @@
+{
+ "name": "Cheerful Toy Cannon",
+ "description": "A chunky low-poly teal toy cannon with golden trim and coral sunburst wheels.",
+ "behaviour": "dynamic",
+ "use": "Fires a cannonball.",
+ "parts": {
+  "projectile": "cannonball.glb"
+ },
+ "size_m": 0.923,
+ "id": "cheerful_toy_cannon_33cb1",
+ "author": "Hannah",
+ "visitor": "Hannah",
+ "request": "A cannon that shoots out glitter",
+ "added": 1794352037
+}
