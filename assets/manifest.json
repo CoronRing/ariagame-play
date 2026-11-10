@@ -77,6 +77,14 @@
       "parts": {}
     },
     {
+      "id": "cheerful_neckerchief_bea_c9761",
+      "name": "Cheerful Neckerchief Bear",
+      "behaviour": "npc",
+      "author": "Paul",
+      "use": "",
+      "parts": {}
+    },
+    {
       "id": "cheerful_noodle_bowl_3f3f1",
       "name": "Cheerful Noodle Bowl",
       "behaviour": "dynamic",

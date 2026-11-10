@@ -1,0 +1,13 @@
+{
+ "name": "Cheerful Neckerchief Bear",
+ "description": "A small, blocky brown bear with a cream muzzle and belly, round ears, and a teal neckerchief.",
+ "behaviour": "npc",
+ "use": "",
+ "parts": {},
+ "size_m": 0.597,
+ "id": "cheerful_neckerchief_bea_c9761",
+ "author": "Paul",
+ "visitor": "Paul",
+ "request": "A bear walking around island",
+ "added": 1794335146
+}
