@@ -1,6 +1,6 @@
 {
  "api": "https://67a40f3086e017.lhr.life",
- "latest": "1.49",
+ "latest": "1.50",
  "versions": [
   {
    "version": "1.0",
@@ -351,6 +351,13 @@
    "request": "A bear walking around island",
    "asset": "cheerful_neckerchief_bea_c9761",
    "ts": 1794335348.6826458
+  },
+  {
+   "version": "1.50",
+   "visitor": "Paul",
+   "request": "A bear walking around island",
+   "asset": "cheerful_backpack_bear_ee931",
+   "ts": 1794335663.2076957
   }
  ]
 }
