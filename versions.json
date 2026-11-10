@@ -1,6 +1,6 @@
 {
  "api": "https://2305eb0bbda8ef.lhr.life",
- "latest": "1.51",
+ "latest": "1.52",
  "versions": [
   {
    "version": "1.0",
@@ -365,6 +365,13 @@
    "request": "A Request object button at the top of the screen",
    "asset": null,
    "ts": 1794335859.423829
+  },
+  {
+   "version": "1.52",
+   "visitor": "Night",
+   "request": "A rainbow that gets bigger when interacted",
+   "asset": "cheerful_rainbow_arch_7ff91",
+   "ts": 1794343678.7148879
   }
  ]
 }
